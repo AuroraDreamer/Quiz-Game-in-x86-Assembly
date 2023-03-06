@@ -1,0 +1,20 @@
+﻿  Assembling Text.asm...
+Text.asm(95): error A2008: syntax error : mWrite
+Text.asm(117): error A2008: syntax error : mWrite
+Text.asm(155): error A2008: syntax error : mWrite
+Text.asm(165): error A2008: syntax error : mwrite
+Text.asm(175): error A2008: syntax error : mWrite
+Text.asm(181): error A2008: syntax error : mwrite
+Text.asm(183): error A2008: syntax error : mwrite
+Text.asm(185): error A2008: syntax error : mwrite
+Text.asm(187): error A2008: syntax error : mwrite
+Text.asm(195): error A2008: syntax error : mwrite
+Text.asm(197): error A2008: syntax error : mwrite
+Text.asm(199): error A2008: syntax error : mwrite
+Text.asm(201): error A2008: syntax error : mwrite
+Text.asm(204): error A2008: syntax error : mWrite
+Text.asm(217): error A2008: syntax error : mWrite
+Text.asm(224): error A2008: syntax error : mwrite
+Text.asm(228): error A2008: syntax error : mwrite
+Text.asm(234): fatal error A1010: unmatched block nesting : main
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.targets(70,5): error MSB3721: The command "ml.exe /c /nologo /Zi /Fo"Debug\Text.obj" /I "C:\Irvine" /W3 /errorReport:prompt  /TaText.asm" exited with code 1.
